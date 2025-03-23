@@ -43,3 +43,9 @@ cargo run
 #### 3. Monitor Output
 
 The application will begin monitoring and output messages when new tokens are detected.
+
+## Key Componets
+
+- PubsubClient: Used for subscribing to the Solana WebSocket for real-time updates.
+- RpcClient: Allows fetching detailed transaction data from the Solana RPC API.
+- Filters and Configs: Customized filters to narrow down the transactions of interest.

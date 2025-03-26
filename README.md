@@ -9,7 +9,7 @@
 
 ## Prerequisites
 - Rust: Make sure you have Rust installed. If not, download it from https://www.rust-lang.org/
-- Tokio Runtime: This project uses asynchronous programming, so the Tokio runtime is required.
+- Tokio Runtime: This project uses asynchronous programming, so the Tokio runtime is required
 - Solana Client Libraries: Uses solana_client and related crates.
 
 ## Installation
